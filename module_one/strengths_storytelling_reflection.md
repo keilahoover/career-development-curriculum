@@ -4,12 +4,11 @@ Build on your professional story by thinking about how you're progressing at Tur
 
 * Write 1-2 paragraphs about your StrengthsFinder themes: How have you seen yourself using these strengths at Turing? Has your understanding of these strengths changed since you first reflected on them? If so, how?
 
-Yes, I've noticed my strengths in numerous occasions since starting at Turing. For example, my Activator strength has helped keep myself and partners motivated even in those high stress moments. My understanding of my strengths have evolved in a way that helps me understand how I can truly optimize each one of them.
+  Yes, I've noticed my strengths in numerous occasions since starting at Turing. For example, my Activator strength has helped keep myself and partners motivated even in those high stress moments. My understanding of my strengths have evolved in a way that helps me understand how I can truly optimize each one of them.
 
 * Write a story about your Turing experience so far: When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
   
-  One struggle that comes to mind is when I was enjoying working with a partner, but the pace difference started getting to my stress level because I wanted to move a little quicker, but also did not want to take from their learning experience. So I struggled with time management and knowing it is alright if the project does not go exactly has my expectations had hoped. I have since been able to keep my stress level under control even when the pace is different than my own.
-  One success would be the new languages I'm learning at a rapid pace are actually(for the most part) making sense! I accomplished this by working over 70 hours a week and really stretching outside of my comfort zone and using that Activator side of myself.
+  One struggle that comes to mind is when I was enjoying working with a partner, but the pace difference started getting to my stress level because I wanted to move a little quicker, but also did not want to take from their learning experience. So I struggled with time management and knowing it is alright if the project does not go exactly has my expectations had hoped. I have since been able to keep my stress level under control even when the pace is different than my own. One success would be the new languages I'm learning at a rapid pace are actually(for the most part) making sense! I accomplished this by working over 70 hours a week and really stretching outside of my comfort zone and using that Activator side of myself.
 
 * Answer the question: how does your Turing story end? Create a vision for your future and your career transition into being a junior developer.
   
